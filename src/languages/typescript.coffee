@@ -16,6 +16,7 @@ module.exports = {
   ###
   extensions: [
     "ts"
+    "tsx"
   ]
 
 }
